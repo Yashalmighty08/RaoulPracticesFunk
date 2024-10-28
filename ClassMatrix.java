@@ -1,5 +1,4 @@
-package implementation;
-
+Package ______________;
 import java.util.Scanner;
 
 public class ClassMatrix {
