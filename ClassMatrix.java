@@ -1,4 +1,4 @@
-Package ______________;
+Package ______________;// Name any package you are inserting this file into
 import java.util.Scanner;
 
 public class ClassMatrix {
